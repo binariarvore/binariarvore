@@ -6,7 +6,7 @@ Hi, I'm a 24yo Fullstack developer that likes to study about fundamentals of com
 
 ## Things I like
 
-* :keyboard: Competitive Programming
+* :keyboard: Functional programming languages
 * :space_invader: Back-end development
 * :coffee: Coffee aroma
 
